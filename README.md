@@ -71,7 +71,7 @@ A strong data pipeline ensures the model learns from **reliable, consistent, and
 - **Private Leaderboard Score**: **110.299** (predictions within ~110 AUD of actual prices on average)
 - **Result Recorded**: 6 June 2025, 1:57 PM (AEST)
 - **Leaderboard Reference**: [View on Kaggle](https://www.kaggle.com/competitions/asba-predictive-analytics-competition/leaderboard)
-- **Professor Letter**: [View Here](.pdf)
+- **Professor Letter**: [View Here](https://github.com/audreyngnn/Python-Projects/blob/main/Professor%20Recognition%20Letter.pdf)
 
 ![](Final_Results.PNG)
 
