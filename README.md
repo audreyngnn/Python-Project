@@ -1,4 +1,4 @@
-# AirBnb Melbourne Price Prediction
+# Predictive Analysis: AirBnb Pricing in Melbourne
 
 ## 📌 Project Overview
 This project focuses on building a **machine learning model to predict the price of Airbnb listings in Melbourne** based on property and host features.
